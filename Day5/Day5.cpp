@@ -174,7 +174,7 @@ int part1(std::vector<int> inputs) {
 				numParams = 0;
 			}
 			else {
-				numParams = 2; //BUGBUG this shoudl be 2!
+				numParams = 3;
 			}
 		}
 
@@ -204,7 +204,7 @@ int part1(std::vector<int> inputs) {
 				numParams = 0;
 			}
 			else {
-				numParams = 2;  //BUGBUG this shoudl be 2!
+				numParams = 3;
 			}
 		}
 
